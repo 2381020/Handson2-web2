@@ -15,3 +15,6 @@ numbers.forEach((num) => {
 });
 
 const doubledNumbers = numbers.map((num) => num * 2);
+console.log("Doubled numbers:", doubledNumbers);
+
+export {};
